@@ -1,0 +1,8 @@
+#bookNow:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}
+#bookNow {
+  background-color: #28a745;
+  color: white;
+}
